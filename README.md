@@ -37,22 +37,18 @@
 
 ### 📜 AWS Certifications
 <p align="center">
-  <a href="https://aws.amazon.com/training/learn-about/serverless/" target="_blank">
-    <img alt="AWS Knowledge: Serverless" src="https://img.shields.io/badge/AWS%20Knowledge-Serverless-6D53F4?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=242424">
+  <a href="https://www.credly.com/badges/9649fb69-ec7b-4118-a761-0392222a1454/linked_in?t=shiy2b" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="AWS Knowledge: Serverless" height="120" />
   </a>
-  <a href="https://aws.amazon.com/training/learn-about/ai-ml/" target="_blank">
-    <img alt="AWS Knowledge: AI Practitioner" src="https://img.shields.io/badge/AWS%20Knowledge-AI%20Practitioner-6D53F4?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=242424">
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/b7f6b672-5a64-4cb7-ad84-279f683090d3/linked_in?t=sxntzw" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" height="120" />
   </a>
-  <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="_blank">
-    <img alt="AWS Certified Developer – Associate" src="https://img.shields.io/badge/AWS%20Certified-Developer%E2%80%93Associate-6D53F4?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=242424">
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/9d5287fe-46a6-40b4-98dc-7eb14597d482/linked_in?t=sxlw2m" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" height="120" />
   </a>
 </p>
-
-<!-- Opcional: reemplaza por tu perfil público de Credly para verificación
-<p align="center">
-  <a href="https://www.credly.com/users/tu-usuario/badges" target="_blank">🔗 Ver credenciales en Credly</a>
-</p>
--->
 
 ---
 
@@ -72,6 +68,6 @@
 </p>
 
 <!-- Notes:
+- Badges: imágenes oficiales de Credly enlazadas a tus páginas verificadas.
 - Icon host switched to skillicons.dev with theme=dark to avoid SVG visibility issues on dark backgrounds.
-- All stat cards use dark themes and hide borders for a cleaner look.
 -->
