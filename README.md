@@ -35,6 +35,27 @@
 
 ---
 
+### 📜 AWS Certifications
+<p align="center">
+  <a href="https://aws.amazon.com/training/learn-about/serverless/" target="_blank">
+    <img alt="AWS Knowledge: Serverless" src="https://img.shields.io/badge/AWS%20Knowledge-Serverless-6D53F4?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=242424">
+  </a>
+  <a href="https://aws.amazon.com/training/learn-about/ai-ml/" target="_blank">
+    <img alt="AWS Knowledge: AI Practitioner" src="https://img.shields.io/badge/AWS%20Knowledge-AI%20Practitioner-6D53F4?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=242424">
+  </a>
+  <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="_blank">
+    <img alt="AWS Certified Developer – Associate" src="https://img.shields.io/badge/AWS%20Certified-Developer%E2%80%93Associate-6D53F4?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=242424">
+  </a>
+</p>
+
+<!-- Opcional: reemplaza por tu perfil público de Credly para verificación
+<p align="center">
+  <a href="https://www.credly.com/users/tu-usuario/badges" target="_blank">🔗 Ver credenciales en Credly</a>
+</p>
+-->
+
+---
+
 ### 🧪 Quality & DX
 - **TDD** mindset · Coverage gates with **Jest/RTL** · **Husky + lint-staged** · Conventional Commits  
 - **CI/CD** on GitHub Actions (lint → test → build → deploy)  
