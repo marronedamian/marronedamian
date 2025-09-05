@@ -6,6 +6,7 @@
   Senior Full-Stack Engineer · React / Angular · Next.js · Node.js/NestJS · AWS · Prisma · SQL/NoSQL · Testing
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/marronedamian?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/marronedamian?style=for-the-badge&label=Followers&logo=github&color=6D53F4">
@@ -17,6 +18,7 @@
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Open-6D53F4?style=for-the-badge&logo=chrome&logoColor=white">
   </a>
 </p>
+-->
 
 ---
 
