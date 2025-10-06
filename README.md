@@ -40,7 +40,7 @@
 ### 📜 AWS Certifications
 <p align="center">
   <a href="https://www.credly.com/badges/9649fb69-ec7b-4118-a761-0392222a1454/linked_in?t=shiy2b" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.credly.com/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="AWS Knowledge: Serverless" height="120" />
+    <img src="[https://images.credly.com/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png](https://images.credly.com/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob)" alt="AWS Knowledge: Serverless" height="120" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/b7f6b672-5a64-4cb7-ad84-279f683090d3/linked_in?t=sxntzw" target="_blank" rel="noopener noreferrer">
