@@ -52,7 +52,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/b5326378-763f-44a7-bb0a-f093a082c382/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.credly.com/images/8ba1e6e9-dcc4-4bb4-a43f-7c54aaae6bd8/image.png" alt="AWS Certified Machine Learning Engineer – Associate" height="120" />
+    <img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" height="120" />
   </a>
 </p>
 
