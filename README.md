@@ -50,6 +50,10 @@
   <a href="https://www.credly.com/badges/9d5287fe-46a6-40b4-98dc-7eb14597d482/linked_in?t=sxlw2m" target="_blank" rel="noopener noreferrer">
     <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" height="120" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/b5326378-763f-44a7-bb0a-f093a082c382/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/images/8ba1e6e9-dcc4-4bb4-a43f-7c54aaae6bd8/image.png" alt="AWS Certified Machine Learning Engineer – Associate" height="120" />
+  </a>
 </p>
 
 ---
