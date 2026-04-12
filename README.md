@@ -3,77 +3,73 @@
 <h1 align="center">Hey, I'm <a href="https://damianmarrone.com" target="_blank">Damian Marrone</a> 👋</h1>
 
 <p align="center">
-  Senior Full-Stack Engineer · React / Angular · Next.js · Node.js/NestJS · AWS · Prisma · SQL/NoSQL · Testing
+  AI Engineer · Generative AI · LLMs · AWS · Serverless · Full-Stack Architect
 </p>
-
-<!--
-<p align="center">
-  <a href="https://github.com/marronedamian?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/marronedamian?style=for-the-badge&label=Followers&logo=github&color=6D53F4">
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=marronedamian">
-    <img alt="Profile Views" src="https://img.shields.io/badge/Views-—-6D53F4?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://damianmarrone.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Open-6D53F4?style=for-the-badge&logo=chrome&logoColor=white">
-  </a>
-</p>
--->
 
 ---
 
 ### 🚀 About me
-- I build production apps end-to-end with **clean architecture**, **performance**, and **great DX**.
-- Frontend with **React/Next.js** and **Angular** · Backend with **NestJS/Node.js** · Cloud on **AWS**.
-- Mobile with **React Native/Expo** (native modules when needed).
-- I care about **testing** (Jest, RTL), **CI/CD**, **security basics**, and developer experience.
+- I build **AI-powered systems** — from LLM apps to multi-agent architectures.
+- Focused on **real-world, production-ready AI products** (not demos).
+- Strong background in **full-stack + cloud**, now specialized in **Generative AI**.
+- I care about **performance, scalability, and clean architecture**.
+
+---
+
+### 🧠 What I build
+- AI apps with **Claude, Bedrock, Vertex AI**
+- **AI Agents & multi-agent systems** (MCP, tool use, orchestration)
+- **Serverless architectures** on AWS (Lambda, API Gateway, SQS, DynamoDB)
+- Scalable platforms with **Next.js, Node.js**
 
 ---
 
 ### 🧰 Tech stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,angular,tailwind,nodejs,nestjs,postgres,mysql,redis,prisma,aws,docker,jest,git,github&perline=10&theme=dark" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,angular,tailwind,nodejs,nestjs,postgres,mysql,redis,prisma,aws,docker,jest,git,github&perline=10&theme=dark" alt="Tech stack icons" />
 </p>
 
 ---
 
-### 📜 AWS Certifications
+### 🏆 Certifications
 <p align="center">
-  <a href="https://www.credly.com/badges/9649fb69-ec7b-4118-a761-0392222a1454/linked_in?t=shiy2b" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.credly.com/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" alt="AWS Knowledge: Serverless" height="120" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/b7f6b672-5a64-4cb7-ad84-279f683090d3/linked_in?t=sxntzw" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" height="120" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/9d5287fe-46a6-40b4-98dc-7eb14597d482/linked_in?t=sxlw2m" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" height="120" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/b5326378-763f-44a7-bb0a-f093a082c382/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" height="120" />
-  </a>
+  <img src="https://images.credly.com/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" height="110" alt="AWS Knowledge Serverless" />
+  <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="110" alt="AWS AI Practitioner" />
+  <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="110" alt="AWS Developer Associate" />
+  <img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" height="110" alt="AWS ML Engineer Associate" />
+  <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1764262237/7d36e7b5-935a-4991-b951-d7fca2d5b6a117919654956928367633.png" height="110" alt="Generative AI Certification" />
+</p>
+
+<p align="center">
+  <b>AWS Certified:</b> Generative AI · Machine Learning · Developer · Serverless  
+  <br/>
+  <b>Anthropic:</b> Claude · MCP · AI Agents  
+  <br/>
+  <b>Additional:</b> Generative AI Specialization (Udemy)
 </p>
 
 ---
 
-### 🧪 Quality & DX
-- **TDD** mindset · Coverage gates with **Jest/RTL** · **Husky + lint-staged** · Conventional Commits  
-- **CI/CD** on GitHub Actions (lint → test → build → deploy)  
-- **Security**: input sanitization, headers/CSP, dependency scanning
+### 🧪 Engineering
+- TDD · Jest/RTL · CI/CD (GitHub Actions)
+- Clean Architecture · Scalable systems
+- Security best practices
 
 ---
 
 ### 📫 Reach me
-- 🌐 Portfolio: **https://damianmarrone.com**  
-- 🐙 GitHub: **@marronedamian**
+- 🌐 https://damianmarrone.com  
+- 🐙 https://github.com/marronedamian  
+
+---
 
 <p align="center">
-  <sub>Built with ❤️ TypeScript and coffee.</sub>
+  <sub>Building AI systems that actually ship 🚀</sub>
 </p>
 
 <!-- Notes:
-- Badges: imágenes oficiales de Credly enlazadas a tus páginas verificadas.
-- Icon host switched to skillicons.dev with theme=dark to avoid SVG visibility issues on dark backgrounds.
+- Positioned as AI Engineer first (stronger market positioning)
+- Certifications ordered by impact (AWS > others)
+- Badge added without breaking visual hierarchy
+- Clean, minimal, recruiter-friendly layout
 -->
