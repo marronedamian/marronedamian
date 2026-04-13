@@ -223,16 +223,25 @@ const damian = {
 <div align="center">
 
 <a href="https://github.com/marronedamian">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marronedamian&show_icons=true&hide_border=true&bg_color=07080A&title_color=C4FF3D&icon_color=C4FF3D&text_color=F5F1E8&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</a>
-<a href="https://github.com/marronedamian">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marronedamian&layout=compact&hide_border=true&bg_color=07080A&title_color=C4FF3D&text_color=F5F1E8&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marronedamian&theme=github_dark" alt="Profile details" />
 </a>
 
 <br/>
 
 <a href="https://github.com/marronedamian">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marronedamian&theme=black&hide_border=true&background=07080A&stroke=C4FF3D&ring=C4FF3D&fire=C4FF3D&currStreakLabel=C4FF3D&sideLabels=F5F1E8&currStreakNum=F5F1E8&sideNums=F5F1E8&dates=8A8F98" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marronedamian&theme=github_dark" alt="Stats" />
+</a>
+<a href="https://github.com/marronedamian">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marronedamian&theme=github_dark&utcOffset=-3" alt="Productive time" />
+</a>
+
+<br/>
+
+<a href="https://github.com/marronedamian">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marronedamian&theme=github_dark&exclude=html,css" alt="Repos per language" />
+</a>
+<a href="https://github.com/marronedamian">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marronedamian&theme=github_dark&exclude=html,css" alt="Most commit language" />
 </a>
 
 </div>
