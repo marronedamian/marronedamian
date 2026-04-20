@@ -129,6 +129,13 @@ const damian = {
 <table>
   <tr>
     <td align="center" width="20%">
+      <a href="https://www.credly.com/badges/3fb3ef4a-34c8-49b2-ba78-17106035a3ac/public_url" target="_blank">
+        <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1764262237/7d36e7b5-935a-4991-b951-d7fca2d5b6a117919654956928367633.png" height="100" alt="Generative AI Specialization" />
+        <br/>
+        <sub><b>Gen AI Spec.</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
       <a href="https://www.credly.com/badges/b5326378-763f-44a7-bb0a-f093a082c382/public_url" target="_blank">
         <img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" height="100" alt="AWS Certified Machine Learning Engineer – Associate" />
         <br/>
@@ -155,11 +162,6 @@ const damian = {
         <br/>
         <sub><b>Serverless</b></sub>
       </a>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1764262237/7d36e7b5-935a-4991-b951-d7fca2d5b6a117919654956928367633.png" height="100" alt="Generative AI Specialization" />
-      <br/>
-      <sub><b>Gen AI Spec.</b></sub>
     </td>
   </tr>
 </table>
