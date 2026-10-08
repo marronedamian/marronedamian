@@ -128,39 +128,62 @@ const damian = {
 
 <table>
   <tr>
-    <td align="center" width="20%">
-      <a href="https://www.credly.com/badges/3fb3ef4a-34c8-49b2-ba78-17106035a3ac/public_url" target="_blank">
-        <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1764262237/7d36e7b5-935a-4991-b951-d7fca2d5b6a117919654956928367633.png" height="100" alt="Generative AI Specialization" />
+    <td align="center" width="25%">
+      <a href="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" target="_blank">
+        <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" height="95" alt="AWS Certified Solutions Architect – Professional" />
         <br/>
-        <sub><b>Gen AI Spec.</b></sub>
+        <sub><b>Solutions Architect Pro</b></sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
+      <a href="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" target="_blank">
+        <img src="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" height="95" alt="AWS Certified Generative AI Developer – Professional" />
+        <br/>
+        <sub><b>Gen AI Developer Pro</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
       <a href="https://www.credly.com/badges/b5326378-763f-44a7-bb0a-f093a082c382/public_url" target="_blank">
-        <img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" height="100" alt="AWS Certified Machine Learning Engineer – Associate" />
+        <img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" height="95" alt="AWS Certified Machine Learning Engineer – Associate" />
         <br/>
         <sub><b>ML Engineer</b></sub>
       </a>
     </td>
-    <td align="center" width="20%">
-      <a href="https://www.credly.com/badges/b7f6b672-5a64-4cb7-ad84-279f683090d3/linked_in" target="_blank">
-        <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="100" alt="AWS Certified AI Practitioner" />
-        <br/>
-        <sub><b>AI Practitioner</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://www.credly.com/badges/9d5287fe-46a6-40b4-98dc-7eb14597d482/linked_in" target="_blank">
-        <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="100" alt="AWS Certified Developer – Associate" />
+        <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="95" alt="AWS Certified Developer – Associate" />
         <br/>
         <sub><b>Developer</b></sub>
       </a>
     </td>
-    <td align="center" width="20%">
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/b7f6b672-5a64-4cb7-ad84-279f683090d3/linked_in" target="_blank">
+        <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="95" alt="AWS Certified AI Practitioner" />
+        <br/>
+        <sub><b>AI Practitioner</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://images.credly.com/images/9de9a2f7-3259-4720-bb74-095563bb1e49/blob" target="_blank">
+        <img src="https://images.credly.com/images/9de9a2f7-3259-4720-bb74-095563bb1e49/blob" height="95" alt="AWS Certified Generative AI Developer – Professional Early Adopter" />
+        <br/>
+        <sub><b>Gen AI Early Adopter</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
       <a href="https://www.credly.com/badges/9649fb69-ec7b-4118-a761-0392222a1454/linked_in" target="_blank">
-        <img src="https://images.credly.com/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" height="100" alt="AWS Knowledge: Serverless" />
+        <img src="https://images.credly.com/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" height="95" alt="AWS Knowledge: Serverless – Training Badge" />
         <br/>
         <sub><b>Serverless</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/3fb3ef4a-34c8-49b2-ba78-17106035a3ac/public_url" target="_blank">
+        <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1764262237/7d36e7b5-935a-4991-b951-d7fca2d5b6a117919654956928367633.png" height="95" alt="Generative AI Specialization" />
+        <br/>
+        <sub><b>Gen AI Specialization</b></sub>
       </a>
     </td>
   </tr>
@@ -168,7 +191,9 @@ const damian = {
 
 <br/>
 
-**🟧 AWS Certified** — Generative AI Developer · Machine Learning Engineer · AI Practitioner · Developer · Serverless
+**🟧 AWS Certified** — Solutions Architect – Professional · Generative AI Developer – Professional · Machine Learning Engineer – Associate · AI Practitioner · Developer – Associate
+<br/>
+**🏅 AWS Badges** — Generative AI Developer – Professional Early Adopter · AWS Knowledge: Serverless
 <br/>
 **⬛ Anthropic** — Claude 101 · Claude API · Claude Code · Bedrock · Vertex AI · MCP Intro · MCP Advanced · Agent Skills · AI Fluency
 <br/>
