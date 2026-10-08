@@ -129,14 +129,14 @@ const damian = {
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" target="_blank">
+      <a href="https://www.credly.com/users/damian-marrone.df3da3a1" target="_blank">
         <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" height="95" alt="AWS Certified Solutions Architect – Professional" />
         <br/>
         <sub><b>Solutions Architect Pro</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" target="_blank">
+      <a href="https://www.credly.com/users/damian-marrone.df3da3a1" target="_blank">
         <img src="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" height="95" alt="AWS Certified Generative AI Developer – Professional" />
         <br/>
         <sub><b>Gen AI Developer Pro</b></sub>
@@ -166,7 +166,7 @@ const damian = {
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://images.credly.com/images/9de9a2f7-3259-4720-bb74-095563bb1e49/blob" target="_blank">
+      <a href="https://www.credly.com/users/damian-marrone.df3da3a1" target="_blank">
         <img src="https://images.credly.com/images/9de9a2f7-3259-4720-bb74-095563bb1e49/blob" height="95" alt="AWS Certified Generative AI Developer – Professional Early Adopter" />
         <br/>
         <sub><b>Gen AI Early Adopter</b></sub>
